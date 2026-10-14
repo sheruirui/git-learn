@@ -5,6 +5,7 @@ public class Merge {
     private Integer id;
     private String name;
     private String userMerge;
+    private String adminMerge;
 
     public Integer getId() {
         return id;
