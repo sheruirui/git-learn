@@ -5,6 +5,8 @@ public class Admin {
     private Integer id;
     private String name;
     private String address;
+    private String sex;
+
 
     public Integer getId() {
         return id;
